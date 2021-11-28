@@ -17,4 +17,4 @@ for i in range(3):
 
 print(ans)
 
-# 範囲　合格点　得点
+# 範囲　合格点　得点 範囲マッチ

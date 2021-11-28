@@ -11,3 +11,5 @@ for i in range(3):
     ans = str(X) + check[i]
 
 print(ans)
+
+# 範囲マッチ
