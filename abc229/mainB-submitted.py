@@ -1,3 +1,6 @@
+# 提出AC
+# https://atcoder.jp/contests/abc229/submissions/27544797
+
 a, b = map(str, input().split(" "))
 a_list = list(a)
 b_list = list(b)
