@@ -5,8 +5,14 @@
 ---
 
 ## 演習進捗（AtCoder Ploblems アカウントページ）
+プロフィール  
+https://kenkoooo.com/atcoder/#/user/Seral?userPageTab=All
 
+回答有無のマップ  
 https://kenkoooo.com/atcoder/#/table/Seral
+
+コンテストプロフィール  
+https://atcoder.jp/users/Seral
 
 ## Ref Links
 
