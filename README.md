@@ -1,6 +1,12 @@
 # AtCoder-self-practice
- Atcoderのプライベート演習リポジトリ
- まずは欲張らずに茶色を目指します。
+ Atcoderのプライベート演習リポジトリ  
+ まずは欲張らずに茶色を目指します。  
+
+---
+
+## 演習進捗（AtCoder Ploblems アカウントページ）
+
+https://kenkoooo.com/atcoder/#/table/Seral
 
 ## Ref Links
 
