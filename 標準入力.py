@@ -3,6 +3,12 @@
 #   競プロ等におけるpython3の標準入力
 #   https://qiita.com/zenrshon/items/c4f3849552348b3dbe67
 
+### 一行の文字列の分解
+s = list(str(input()))
+print(s)
+# abc
+# ['a', 'b', 'c']
+
 n,k,a = map(int, input().split())
 print("n={}, k={}, a={}".format(n,k,a))
 # 3432 85 564
