@@ -1,3 +1,7 @@
+# range() 関数
+# https://docs.python.org/ja/3/tutorial/controlflow.html#the-range-function
+# 0～(引数-1) まで {引数}回ループ
+
 # 行と列の入れ替え
 a_list = [1,2,3,4,5]
 b_list = [531453,846542,368246,935653,354562]
