@@ -9,10 +9,19 @@ print(s)
 # abc
 # ['a', 'b', 'c']
 
+### 複数の入力値を取得
 n,k,a = map(int, input().split())
 print("n={}, k={}, a={}".format(n,k,a))
 # 3432 85 564
 # n=3432, k=85, a=564
+
+### 3桁数値を２つ入力し、それぞれ数値要素の配列に格納する
+A,B = map(str, list(input().split()))
+a = list(map(int, A))
+b = list(map(int, B))
+print(a,b)
+# 564 754
+# [5, 6, 4] [7, 5, 4]
 
 
 # N
