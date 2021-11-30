@@ -4,7 +4,7 @@
 #   https://qiita.com/zenrshon/items/c4f3849552348b3dbe67
 
 ### 一行の文字列の分解
-s = list(str(input()))
+s = list(input())
 print(s)
 # abc
 # ['a', 'b', 'c']
