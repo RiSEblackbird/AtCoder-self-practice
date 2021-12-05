@@ -9,3 +9,5 @@ print(A) # Aそのものを操作するので、処理単体で実行しない�
 
 ### array.index() 引数の要素が何番目であるかを取得
 # https://docs.python.org/ja/3/library/array.html?highlight=index#array.array.index
+# 
+# 注意：「何番目？」の問いだと 1 を足すこと。(リストの1番目は インデックス == 0 なので。)
