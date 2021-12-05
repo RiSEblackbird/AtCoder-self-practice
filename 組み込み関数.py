@@ -20,9 +20,3 @@ print(int(s, 2)) # 第一引数は文字列型であることに注意！
 print((3).bit_length())
 # 2
 # !!! 2の乗数を求める場合は, " (n).bit_length() - 1 "
-
-### 文字列のスライスから部分文字列を含む最初のインデックス find()
-# https://docs.python.org/ja/3/library/stdtypes.html#str.find
-S = "00101"
-print(S.find("1")) 
-# 2
