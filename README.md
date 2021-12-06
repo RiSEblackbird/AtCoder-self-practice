@@ -1,11 +1,11 @@
 # AtCoder-self-practice
- Atcoderのプライベート演習リポジトリ  
+ Atcoderの演習用リポジトリ  
  まずは欲張らずに茶色を目指します。  
 
 ---
 
-## 演習進捗（AtCoder Ploblems アカウントページ）
-プロフィール  
+## 演習進捗
+プロフィール（AtCoder Ploblems アカウントページ）
 https://kenkoooo.com/atcoder/#/user/Seral?userPageTab=All
 
 回答有無のマップ  
