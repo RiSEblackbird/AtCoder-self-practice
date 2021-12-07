@@ -22,3 +22,16 @@ print( reversed(b) ) # <list_reverseiterator object at 0x7f2a096f95e0>
 print( *reversed(b) ) # c b a
 print( [*reversed(b)] ) # ['c', 'b', 'a']
 print( "".join(reversed(b)) ) # cba
+
+### sorted(iterable, *, key=None, reverse=False)
+# https://docs.python.org/ja/3/library/functions.html#sorted
+b = ["d", "a", "b", "c"]
+print( sorted(b) ) # ['a', 'b', 'c', 'd']
+
+## lambda式を用いた方法
+# 記事例：https://qiita.com/n10432/items/e0315979286ea9121d57
+c = [["u", 3], ["m", 5], ["e", 1], ["s", 2], ["o", 4]]
+c_desc1 = sorted(c, key=lambda x: int(x[1]), reverse=True)
+c_desc2 = sorted(c, key=lambda x: -int(x[1]))
+print(*list(c_desc1[i][0] for i in range(5)), sep="") # mouse
+print(*list(c_desc2[i][0] for i in range(5)), sep="") # mouse
