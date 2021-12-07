@@ -28,7 +28,7 @@ print( "".join(reversed(b)) ) # cba
 b = ["d", "a", "b", "c"]
 print( sorted(b) ) # ['a', 'b', 'c', 'd']
 
-## lambda式を用いた方法
+## lambda式を用いた方法 二重配列の第二要素をキーにしたソート
 # 記事例：https://qiita.com/n10432/items/e0315979286ea9121d57
 c = [["u", 3], ["m", 5], ["e", 1], ["s", 2], ["o", 4]]
 c_desc1 = sorted(c, key=lambda x: int(x[1]), reverse=True)
